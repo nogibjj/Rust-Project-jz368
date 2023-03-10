@@ -8,4 +8,4 @@ In particular, users can use the following command to search for the defition an
 
 Sample output:
 
-<img width="642" src="1.jpg">
+<img width="642" src="1.png">
