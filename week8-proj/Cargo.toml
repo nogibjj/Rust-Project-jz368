@@ -1,0 +1,11 @@
+[package]
+name = "jz368_week8_project"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[dependencies]
+clap = { version = "4.1.4", features = ["derive"] }
+webster = "0.3.0"
+thesaurus = { version = "0.5", features = ["moby","static"], default_features = false }
+
